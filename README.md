@@ -39,7 +39,8 @@ You should definitly get some.
 * [Wownero.org](https://wownero.org/)  
 * [/r/wownero](https://www.reddit.com/r/wownero)  
 * [SuchWow.xyz](https://suchwow.xyz/)  
-* [TradeOgre](https://tradeogre.com/)
+* [TradeOgre](https://tradeogre.com/)  
+* [*neroSwap](https://neroswap.com/)
 
 And maybe get some Monero while you're at it
 * [monero-project/monero](https://github.com/monero-project/monero)  
