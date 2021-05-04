@@ -38,8 +38,16 @@ You should definitly get some.
 * [wownero/wownero](https://git.wownero.com/wownero/wownero)  
 * [Wownero.org](https://wownero.org/)  
 * [/r/wownero](https://www.reddit.com/r/wownero)  
-* [SuchWow.xyz](https://suchwow.xyz/)
+* [SuchWow.xyz](https://suchwow.xyz/)  
 * [TradeOgre](https://tradeogre.com/)
+
+And maybe get some Monero while you're at it
+* [monero-project/monero](https://github.com/monero-project/monero)  
+* [GetMonero.org](https://www.getmonero.org/)  
+* [/r/monero](https://www.reddit.com/r/monero)  
+* [ChangeNow.io](https://changenow.io/)  
+* [MorphToken.com](https://www.morphtoken.com)  
+* [Haveno](https://github.com/haveno-dex/haveno)
 
 [github-tag-badge]: https://img.shields.io/github/v/tag/rblaine95/docker_wownero "Github tag (latest by date)"
 [github-tag-link]: https://github.com/rblaine95/docker_wownero/tags
