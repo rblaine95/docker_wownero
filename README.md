@@ -38,6 +38,7 @@ You should definitly get some.
 * [wownero/wownero](https://git.wownero.com/wownero/wownero)  
 * [Wownero.org](https://wownero.org/)  
 * [/r/wownero](https://www.reddit.com/r/wownero)  
+* [SuchWow.xyz](https://suchwow.xyz/)
 * [TradeOgre](https://tradeogre.com/)
 
 [github-tag-badge]: https://img.shields.io/github/v/tag/rblaine95/docker_wownero "Github tag (latest by date)"
