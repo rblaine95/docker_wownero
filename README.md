@@ -40,9 +40,9 @@ You should definitly get some.
 * [/r/wownero](https://www.reddit.com/r/wownero)  
 * [TradeOgre](https://tradeogre.com/)
 
-[github-tag-badge]: https://img.shields.io/github/v/tag/rblaine95/wownero "Github tag (latest by date)"
-[github-tag-link]: https://github.com/rblaine95/wownero/tags
-[github-actions-badge]: https://img.shields.io/github/workflow/status/rblaine95/wownero/Docker/master "Github Workflow Status (master)"
-[github-actions-link]: https://github.com/rblaine95/wownero/actions?query=workflow%3ADocker
+[github-tag-badge]: https://img.shields.io/github/v/tag/rblaine95/docker_wownero "Github tag (latest by date)"
+[github-tag-link]: https://github.com/rblaine95/docker_wownero/tags
+[github-actions-badge]: https://img.shields.io/github/workflow/status/rblaine95/docker_wownero/Docker/master "Github Workflow Status (master)"
+[github-actions-link]: https://github.com/rblaine95/docker_wownero/actions?query=workflow%3ADocker
 [docker-image-size-badge]: https://img.shields.io/docker/image-size/rblaine/wownero "Docker Image Size (latest by date)"
 [docker-image-link]: https://hub.docker.com/r/rblaine/wownero
