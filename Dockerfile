@@ -43,6 +43,6 @@ WORKDIR /home/wow
 
 VOLUME /home/wow/.wownero
 
-EXPOSE 18080 18081
+EXPOSE 34567 34568
 
 ENTRYPOINT ["/opt/wownero/wownerod"]
