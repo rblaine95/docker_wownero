@@ -25,13 +25,13 @@ I'm using Github Actions to build and publish this image to:
 * [ghcr.io/rblaine95/wownero](https://ghcr.io/rblaine95/wownero)
 
 ### Take my Weewow!
-This is just a hobby project for me, if you really to give me your Weewow, thank you :)  
-
-Monero: `8AoCMLDJ4J4fkeEokYT1QQbVd7vemd7nHVH1uurxng3cXx1wdKKdp14Fk1PDws4vkagHRF2BkdQo9DfzxxpEr4pUCaGWb5U`  
-![XMR Address](https://api.qrserver.com/v1/create-qr-code/?data=8AoCMLDJ4J4fkeEokYT1QQbVd7vemd7nHVH1uurxng3cXx1wdKKdp14Fk1PDws4vkagHRF2BkdQo9DfzxxpEr4pUCaGWb5U&amp;size=150x150 "8AoCMLDJ4J4fkeEokYT1QQbVd7vemd7nHVH1uurxng3cXx1wdKKdp14Fk1PDws4vkagHRF2BkdQo9DfzxxpEr4pUCaGWb5U")
+This is just a hobby project for me, if you really want to give me your Weewow, thank you :)  
 
 WOW: `WW3WeBQ4iVJFEubDK2r3dYfTDekjeDhWiN5Liuak3y1A62Ccr7z2tF97tMW5q2SeTLHpJpAkdDutU6kWZFuTVHxE2dX2dLYrP`  
 ![WOW Address](https://api.qrserver.com/v1/create-qr-code/?data=WW3WeBQ4iVJFEubDK2r3dYfTDekjeDhWiN5Liuak3y1A62Ccr7z2tF97tMW5q2SeTLHpJpAkdDutU6kWZFuTVHxE2dX2dLYrP&amp;size=150x150 "WW3WeBQ4iVJFEubDK2r3dYfTDekjeDhWiN5Liuak3y1A62Ccr7z2tF97tMW5q2SeTLHpJpAkdDutU6kWZFuTVHxE2dX2dLYrP")
+
+Monero: `8AoCMLDJ4J4fkeEokYT1QQbVd7vemd7nHVH1uurxng3cXx1wdKKdp14Fk1PDws4vkagHRF2BkdQo9DfzxxpEr4pUCaGWb5U`  
+![XMR Address](https://api.qrserver.com/v1/create-qr-code/?data=8AoCMLDJ4J4fkeEokYT1QQbVd7vemd7nHVH1uurxng3cXx1wdKKdp14Fk1PDws4vkagHRF2BkdQo9DfzxxpEr4pUCaGWb5U&amp;size=150x150 "8AoCMLDJ4J4fkeEokYT1QQbVd7vemd7nHVH1uurxng3cXx1wdKKdp14Fk1PDws4vkagHRF2BkdQo9DfzxxpEr4pUCaGWb5U")
 
 ### I don't have Weewows! >:(
 You should definitly get some.  
