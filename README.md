@@ -14,7 +14,7 @@ docker run \
   --restart=always \
   --net=host \
   --name=wownerod \
-  -v /path/to/wownero:/home/wow/.wownero \
+  -v /path/to/wownero:/opt/bitwownero \
   ghcr.io/rblaine95/wownero ${EXTRA_WOWNEROD_ARGS}
 ```
 
