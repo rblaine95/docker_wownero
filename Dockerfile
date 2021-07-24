@@ -1,6 +1,6 @@
 FROM ghcr.io/rblaine95/debian:10-slim AS builder
 
-ARG WOWNERO_VERSION=0.10.0.0
+ARG WOWNERO_VERSION=0.10.0.3
 
 WORKDIR /opt
 
@@ -27,7 +27,7 @@ ENV PATH=/opt/wownero:${PATH}
 
 RUN apt-get update && \
     apt-get dist-upgrade -y && \
-    apt-get install -y ca-certificates libkrb5-dev && \
+    apt-get install -y tini ca-certificates libkrb5-dev && \
     apt-get clean && \
     apt-get autoremove -y && \
     rm -rf /var/lib/apt && \
@@ -44,4 +44,4 @@ WORKDIR /home/wow
 VOLUME /opt/bitwownero
 EXPOSE 34567 34568
 
-ENTRYPOINT ["/opt/wownero/wownerod"]
+ENTRYPOINT ["tini", "--", "/opt/wownero/wownerod"]
