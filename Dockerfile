@@ -1,6 +1,6 @@
 FROM ghcr.io/rblaine95/debian:10-slim AS builder
 
-ARG WOWNERO_VERSION=0.10.0.3
+ARG WOWNERO_VERSION=0.10.1.0
 
 WORKDIR /opt
 
@@ -21,7 +21,7 @@ RUN git clone --recursive https://git.wownero.com/wownero/wownero.git -b v${WOWN
 RUN cd wownero && \
     make -j2 release-static-linux-$(uname -m)
 
-FROM ghcr.io/rblaine95/debian:10-slim
+FROM ghcr.io/rblaine95/debian:11-slim
 
 ENV PATH=/opt/wownero:${PATH}
 
